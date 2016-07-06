@@ -32,7 +32,7 @@
   <groupId>org.xwiki.contrib</groupId>
   <artifactId>application-script-runner</artifactId>
   <name>Derzelas Script Runner</name>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>xar</packaging>
   <description>An application that simplifies running scripts on large number of documents from one or more wikis.</description>
   <properties>
@@ -46,7 +46,7 @@
     <connection>scm:git:git://github.com/xwiki-contrib/application-script-runner.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/application-script-runner.git</developerConnection>
     <url>https://github.com/xwiki-contrib/application-script-runner.git</url>
-    <tag>HEAD</tag>
+    <tag>application-script-runner-1.0</tag>
   </scm>
   <developers>
     <developer>
