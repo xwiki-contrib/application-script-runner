@@ -1,6 +1,6 @@
 # Derzelas Script Runner
 
-An application that simplifies the running scripts on large number of documents from different spaces and even different wikis.
+An application that simplifies running scripts on large number of documents from one or more wikis.
 
 * Project Lead: [Paul Pantiru](http://www.xwiki.org/xwiki/bin/view/XWiki/ppantiru)
 * [Documentation & Download](http://extensions.xwiki.org/xwiki/bin/view/Extension/Derzelas+Script+Runner)
